@@ -1,6 +1,4 @@
 
-
-<br/>
 PROJECT URL : https://mycredcard007.ccbp.tech/
 <br/>
 
@@ -26,16 +24,7 @@ PROJECT URL : https://mycredcard007.ccbp.tech/
 
 ### Completion Instructions
 
-<details>
-<summary>Functionality to be added</summary>
-<br/>
 
-The app must have the following functionalities
-
-- When a credit card number is provided in the card number input, then the provided value should be displayed on the credit card
-- When a credit cardholder name is provided in the cardholder name input, then the provided value should be displayed on the credit card
-
-</details>
 
 <details>
 <summary>Implementation Files</summary>
@@ -47,30 +36,7 @@ Use these files to complete the implementation:
 - `src/components/CreditCard/styledComponents.js`
 </details>
 
-### Quick Tips
 
-<details close>
-<summary>Click to view</summary>
-<br>
-
-- To convert a string value to uppercase we can use `toUpperCase()`
-</details>
-
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-**The following instructions are required for the tests to pass**
-
-- **Styled Components** should be used for styling purposes
-- HTML input element for card number should have the placeholder as **Card Number**
-- HTML input element for cardholder name should have the placeholder as **Cardholder Name**
-- HTML container element with `data-testid` as **creditCard** should have the background image URL as the given credit card image URL
-
-</details>
 
 ### Resources
 
